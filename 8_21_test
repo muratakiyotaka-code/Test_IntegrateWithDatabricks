@@ -1,3 +1,5 @@
 print("これはテスト用です。")
 
 print("2026/08/21に作成したものです。")
+
+print("上記2文はmainブランチで書いて本py作成。本print文はex_kawakatsuブランチで追加。")
